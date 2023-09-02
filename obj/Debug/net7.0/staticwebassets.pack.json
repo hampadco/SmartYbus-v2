@@ -1,0 +1,1521 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/obj/Debug/net7.0/scopedcss/projectbundle/SmartYbus-1.bundle.scp.css",
+      "PackagePath": "staticwebassets/SmartYbus-1.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/Video/movie.mp4",
+      "PackagePath": "staticwebassets/Video/movie.mp4"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/admin_assets/plugins/jQuery/jquery.validate.js",
+      "PackagePath": "staticwebassets/admin_assets/plugins/jQuery/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/browser-bar.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/browser-bar.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-icon-browser.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-icon-browser.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-icon-cloud.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-icon-cloud.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-icon-error.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-icon-error.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-icon-horizontal-arrow.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-icon-horizontal-arrow.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-icon-ok.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-icon-ok.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-icon-server.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-icon-server.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-no-screenshot-error.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-no-screenshot-error.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/cf-no-screenshot-warn.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/cf-no-screenshot-warn.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/images/icon-exclamation.png",
+      "PackagePath": "staticwebassets/cdn-cgi/images/icon-exclamation.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/l/email-protection.html",
+      "PackagePath": "staticwebassets/cdn-cgi/l/email-protection.html"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "PackagePath": "staticwebassets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/cdn-cgi/styles/cf.errors.css",
+      "PackagePath": "staticwebassets/cdn-cgi/styles/cf.errors.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-1.css",
+      "PackagePath": "staticwebassets/css/common-1.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-10.css",
+      "PackagePath": "staticwebassets/css/common-10.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-11.css",
+      "PackagePath": "staticwebassets/css/common-11.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-12.css",
+      "PackagePath": "staticwebassets/css/common-12.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-13.css",
+      "PackagePath": "staticwebassets/css/common-13.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-14.css",
+      "PackagePath": "staticwebassets/css/common-14.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-15.css",
+      "PackagePath": "staticwebassets/css/common-15.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-16.css",
+      "PackagePath": "staticwebassets/css/common-16.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-17.css",
+      "PackagePath": "staticwebassets/css/common-17.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-18.css",
+      "PackagePath": "staticwebassets/css/common-18.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-19.css",
+      "PackagePath": "staticwebassets/css/common-19.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-2.css",
+      "PackagePath": "staticwebassets/css/common-2.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-20.css",
+      "PackagePath": "staticwebassets/css/common-20.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-3.css",
+      "PackagePath": "staticwebassets/css/common-3.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-4.css",
+      "PackagePath": "staticwebassets/css/common-4.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-5.css",
+      "PackagePath": "staticwebassets/css/common-5.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-6.css",
+      "PackagePath": "staticwebassets/css/common-6.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-7.css",
+      "PackagePath": "staticwebassets/css/common-7.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-8.css",
+      "PackagePath": "staticwebassets/css/common-8.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common-9.css",
+      "PackagePath": "staticwebassets/css/common-9.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common.css",
+      "PackagePath": "staticwebassets/css/common.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-1.css",
+      "PackagePath": "staticwebassets/css/common1-1.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-10.css",
+      "PackagePath": "staticwebassets/css/common1-10.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-11.css",
+      "PackagePath": "staticwebassets/css/common1-11.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-12.css",
+      "PackagePath": "staticwebassets/css/common1-12.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-13.css",
+      "PackagePath": "staticwebassets/css/common1-13.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-14.css",
+      "PackagePath": "staticwebassets/css/common1-14.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-15.css",
+      "PackagePath": "staticwebassets/css/common1-15.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-16.css",
+      "PackagePath": "staticwebassets/css/common1-16.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-17.css",
+      "PackagePath": "staticwebassets/css/common1-17.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-18.css",
+      "PackagePath": "staticwebassets/css/common1-18.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-19.css",
+      "PackagePath": "staticwebassets/css/common1-19.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-2.css",
+      "PackagePath": "staticwebassets/css/common1-2.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-20.css",
+      "PackagePath": "staticwebassets/css/common1-20.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-3.css",
+      "PackagePath": "staticwebassets/css/common1-3.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-4.css",
+      "PackagePath": "staticwebassets/css/common1-4.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-5.css",
+      "PackagePath": "staticwebassets/css/common1-5.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-6.css",
+      "PackagePath": "staticwebassets/css/common1-6.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-7.css",
+      "PackagePath": "staticwebassets/css/common1-7.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-8.css",
+      "PackagePath": "staticwebassets/css/common1-8.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1-9.css",
+      "PackagePath": "staticwebassets/css/common1-9.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/common1.css",
+      "PackagePath": "staticwebassets/css/common1.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-1.css",
+      "PackagePath": "staticwebassets/css/home-1.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-10.css",
+      "PackagePath": "staticwebassets/css/home-10.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-11.css",
+      "PackagePath": "staticwebassets/css/home-11.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-12.css",
+      "PackagePath": "staticwebassets/css/home-12.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-13.css",
+      "PackagePath": "staticwebassets/css/home-13.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-14.css",
+      "PackagePath": "staticwebassets/css/home-14.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-15.css",
+      "PackagePath": "staticwebassets/css/home-15.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-16.css",
+      "PackagePath": "staticwebassets/css/home-16.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-17.css",
+      "PackagePath": "staticwebassets/css/home-17.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-18.css",
+      "PackagePath": "staticwebassets/css/home-18.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-19.css",
+      "PackagePath": "staticwebassets/css/home-19.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-2.css",
+      "PackagePath": "staticwebassets/css/home-2.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-20.css",
+      "PackagePath": "staticwebassets/css/home-20.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-3.css",
+      "PackagePath": "staticwebassets/css/home-3.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-4.css",
+      "PackagePath": "staticwebassets/css/home-4.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-5.css",
+      "PackagePath": "staticwebassets/css/home-5.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-6.css",
+      "PackagePath": "staticwebassets/css/home-6.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-7.css",
+      "PackagePath": "staticwebassets/css/home-7.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-8.css",
+      "PackagePath": "staticwebassets/css/home-8.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home-9.css",
+      "PackagePath": "staticwebassets/css/home-9.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/home.css",
+      "PackagePath": "staticwebassets/css/home.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/css/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/jquery.bxslider.css",
+      "PackagePath": "staticwebassets/css/jquery.bxslider.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/jquery.sliderTabs.min.css",
+      "PackagePath": "staticwebassets/css/jquery.sliderTabs.min.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-1.css",
+      "PackagePath": "staticwebassets/css/main-1.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-10.css",
+      "PackagePath": "staticwebassets/css/main-10.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-11.css",
+      "PackagePath": "staticwebassets/css/main-11.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-12.css",
+      "PackagePath": "staticwebassets/css/main-12.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-13.css",
+      "PackagePath": "staticwebassets/css/main-13.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-14.css",
+      "PackagePath": "staticwebassets/css/main-14.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-15.css",
+      "PackagePath": "staticwebassets/css/main-15.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-16.css",
+      "PackagePath": "staticwebassets/css/main-16.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-17.css",
+      "PackagePath": "staticwebassets/css/main-17.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-18.css",
+      "PackagePath": "staticwebassets/css/main-18.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-19.css",
+      "PackagePath": "staticwebassets/css/main-19.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-2.css",
+      "PackagePath": "staticwebassets/css/main-2.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-20.css",
+      "PackagePath": "staticwebassets/css/main-20.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-3.css",
+      "PackagePath": "staticwebassets/css/main-3.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-4.css",
+      "PackagePath": "staticwebassets/css/main-4.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-5.css",
+      "PackagePath": "staticwebassets/css/main-5.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-6.css",
+      "PackagePath": "staticwebassets/css/main-6.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-7.css",
+      "PackagePath": "staticwebassets/css/main-7.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-8.css",
+      "PackagePath": "staticwebassets/css/main-8.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main-9.css",
+      "PackagePath": "staticwebassets/css/main-9.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-1.css",
+      "PackagePath": "staticwebassets/css/popup-1.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-10.css",
+      "PackagePath": "staticwebassets/css/popup-10.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-11.css",
+      "PackagePath": "staticwebassets/css/popup-11.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-12.css",
+      "PackagePath": "staticwebassets/css/popup-12.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-13.css",
+      "PackagePath": "staticwebassets/css/popup-13.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-14.css",
+      "PackagePath": "staticwebassets/css/popup-14.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-15.css",
+      "PackagePath": "staticwebassets/css/popup-15.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-16.css",
+      "PackagePath": "staticwebassets/css/popup-16.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-17.css",
+      "PackagePath": "staticwebassets/css/popup-17.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-18.css",
+      "PackagePath": "staticwebassets/css/popup-18.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-19.css",
+      "PackagePath": "staticwebassets/css/popup-19.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-2.css",
+      "PackagePath": "staticwebassets/css/popup-2.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-20.css",
+      "PackagePath": "staticwebassets/css/popup-20.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-3.css",
+      "PackagePath": "staticwebassets/css/popup-3.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-4.css",
+      "PackagePath": "staticwebassets/css/popup-4.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-5.css",
+      "PackagePath": "staticwebassets/css/popup-5.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-6.css",
+      "PackagePath": "staticwebassets/css/popup-6.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-7.css",
+      "PackagePath": "staticwebassets/css/popup-7.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-8.css",
+      "PackagePath": "staticwebassets/css/popup-8.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup-9.css",
+      "PackagePath": "staticwebassets/css/popup-9.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/popup.css",
+      "PackagePath": "staticwebassets/css/popup.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-1.css",
+      "PackagePath": "staticwebassets/css/styles-1.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-10.css",
+      "PackagePath": "staticwebassets/css/styles-10.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-11.css",
+      "PackagePath": "staticwebassets/css/styles-11.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-12.css",
+      "PackagePath": "staticwebassets/css/styles-12.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-13.css",
+      "PackagePath": "staticwebassets/css/styles-13.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-14.css",
+      "PackagePath": "staticwebassets/css/styles-14.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-15.css",
+      "PackagePath": "staticwebassets/css/styles-15.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-16.css",
+      "PackagePath": "staticwebassets/css/styles-16.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-17.css",
+      "PackagePath": "staticwebassets/css/styles-17.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-18.css",
+      "PackagePath": "staticwebassets/css/styles-18.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-19.css",
+      "PackagePath": "staticwebassets/css/styles-19.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-2.css",
+      "PackagePath": "staticwebassets/css/styles-2.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-20.css",
+      "PackagePath": "staticwebassets/css/styles-20.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-3.css",
+      "PackagePath": "staticwebassets/css/styles-3.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-4.css",
+      "PackagePath": "staticwebassets/css/styles-4.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-5.css",
+      "PackagePath": "staticwebassets/css/styles-5.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-6.css",
+      "PackagePath": "staticwebassets/css/styles-6.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-7.css",
+      "PackagePath": "staticwebassets/css/styles-7.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-8.css",
+      "PackagePath": "staticwebassets/css/styles-8.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles-9.css",
+      "PackagePath": "staticwebassets/css/styles-9.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font-awesome/4.7.0/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/font-awesome/4.7.0/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font-awesome/4.7.0/fonts/fontawesome-webfont-1.eot",
+      "PackagePath": "staticwebassets/font-awesome/4.7.0/fonts/fontawesome-webfont-1.eot"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font-awesome/4.7.0/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/font-awesome/4.7.0/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font-awesome/4.7.0/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/font-awesome/4.7.0/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font-awesome/4.7.0/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/font-awesome/4.7.0/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/CenturyGothic.eot",
+      "PackagePath": "staticwebassets/font/CenturyGothic.eot"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/CenturyGothic.ttf",
+      "PackagePath": "staticwebassets/font/CenturyGothic.ttf"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/CenturyGothic.woff",
+      "PackagePath": "staticwebassets/font/CenturyGothic.woff"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/CenturyGothic.woff2",
+      "PackagePath": "staticwebassets/font/CenturyGothic.woff2"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/uber-clone-1.eot",
+      "PackagePath": "staticwebassets/font/uber-clone-1.eot"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/uber-clone.eot",
+      "PackagePath": "staticwebassets/font/uber-clone.eot"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/uber-clone.svg",
+      "PackagePath": "staticwebassets/font/uber-clone.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/uber-clone.ttf",
+      "PackagePath": "staticwebassets/font/uber-clone.ttf"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/font/uber-clone.woff",
+      "PackagePath": "staticwebassets/font/uber-clone.woff"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/app-icon.png",
+      "PackagePath": "staticwebassets/images/app-icon.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/background_india.jpg",
+      "PackagePath": "staticwebassets/images/background_india.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/black-phone-small.jpg",
+      "PackagePath": "staticwebassets/images/black-phone-small.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/black-phone.jpg",
+      "PackagePath": "staticwebassets/images/black-phone.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/city-map-image.jpg",
+      "PackagePath": "staticwebassets/images/city-map-image.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/community.jpg",
+      "PackagePath": "staticwebassets/images/community.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/cont4.png",
+      "PackagePath": "staticwebassets/images/cont4.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/controls.png",
+      "PackagePath": "staticwebassets/images/controls.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/dash-img.png",
+      "PackagePath": "staticwebassets/images/dash-img.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/hand-mobile.png",
+      "PackagePath": "staticwebassets/images/hand-mobile.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/help.jpeg",
+      "PackagePath": "staticwebassets/images/help.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/home-drive.png",
+      "PackagePath": "staticwebassets/images/home-drive.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/how_it_tab.png",
+      "PackagePath": "staticwebassets/images/how_it_tab.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/01_ba5.jpg",
+      "PackagePath": "staticwebassets/images/icon/01_ba5.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/02.jpg",
+      "PackagePath": "staticwebassets/images/icon/02.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/Putting_drivers_first.png",
+      "PackagePath": "staticwebassets/images/icon/Putting_drivers_first.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/banner.png",
+      "PackagePath": "staticwebassets/images/icon/banner.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/banner1.png",
+      "PackagePath": "staticwebassets/images/icon/banner1.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/banner3.jpg",
+      "PackagePath": "staticwebassets/images/icon/banner3.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/become_company.png",
+      "PackagePath": "staticwebassets/images/icon/become_company.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/become_dri.png",
+      "PackagePath": "staticwebassets/images/icon/become_dri.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/cont5.png",
+      "PackagePath": "staticwebassets/images/icon/cont5.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/cont6.jpg",
+      "PackagePath": "staticwebassets/images/icon/cont6.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/cont7.png",
+      "PackagePath": "staticwebassets/images/icon/cont7.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/cont8.jpg",
+      "PackagePath": "staticwebassets/images/icon/cont8.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/drive-side1.jpg",
+      "PackagePath": "staticwebassets/images/icon/drive-side1.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/easy_way.png",
+      "PackagePath": "staticwebassets/images/icon/easy_way.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/footer2_2.png",
+      "PackagePath": "staticwebassets/images/icon/footer2_2.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/half_plane.png",
+      "PackagePath": "staticwebassets/images/icon/half_plane.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/hand_rise.jpg",
+      "PackagePath": "staticwebassets/images/icon/hand_rise.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/header31.png",
+      "PackagePath": "staticwebassets/images/icon/header31.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/map-pin-green.png",
+      "PackagePath": "staticwebassets/images/icon/map-pin-green.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/map-pin-red.png",
+      "PackagePath": "staticwebassets/images/icon/map-pin-red.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/patten_274_520.jpg",
+      "PackagePath": "staticwebassets/images/icon/patten_274_520.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/patten_360_250.jpg",
+      "PackagePath": "staticwebassets/images/icon/patten_360_250.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/patten_90_238.jpg",
+      "PackagePath": "staticwebassets/images/icon/patten_90_238.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/patten_94_390.jpg",
+      "PackagePath": "staticwebassets/images/icon/patten_94_390.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/ride1.jpg",
+      "PackagePath": "staticwebassets/images/icon/ride1.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/safety-trip01.jpg",
+      "PackagePath": "staticwebassets/images/icon/safety-trip01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/safety-trip02.jpg",
+      "PackagePath": "staticwebassets/images/icon/safety-trip02.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/safety01.jpg",
+      "PackagePath": "staticwebassets/images/icon/safety01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/slider_acc.jpg",
+      "PackagePath": "staticwebassets/images/icon/slider_acc.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/slider_eco.jpg",
+      "PackagePath": "staticwebassets/images/icon/slider_eco.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/slider_pre.png",
+      "PackagePath": "staticwebassets/images/icon/slider_pre.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/suitcase.png",
+      "PackagePath": "staticwebassets/images/icon/suitcase.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/icon/two_person.png",
+      "PackagePath": "staticwebassets/images/icon/two_person.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/lady_car.png",
+      "PackagePath": "staticwebassets/images/lady_car.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/loader.gif",
+      "PackagePath": "staticwebassets/images/loader.gif"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-1.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-1.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-10.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-10.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-11.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-11.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-12.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-12.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-13.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-13.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-14.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-14.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-15.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-15.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-16.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-16.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-17.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-17.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-18.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-18.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-19.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-19.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-2.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-2.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-20.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-20.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-3.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-3.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-4.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-4.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-5.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-5.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-6.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-6.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-7.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-7.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-8.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-8.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon-9.png",
+      "PackagePath": "staticwebassets/images/logos/favicon-9.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/favicon.png",
+      "PackagePath": "staticwebassets/images/logos/favicon.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-1.png",
+      "PackagePath": "staticwebassets/images/logos/logo-1.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-10.png",
+      "PackagePath": "staticwebassets/images/logos/logo-10.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-11.png",
+      "PackagePath": "staticwebassets/images/logos/logo-11.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-12.png",
+      "PackagePath": "staticwebassets/images/logos/logo-12.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-13.png",
+      "PackagePath": "staticwebassets/images/logos/logo-13.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-14.png",
+      "PackagePath": "staticwebassets/images/logos/logo-14.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-15.png",
+      "PackagePath": "staticwebassets/images/logos/logo-15.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-16.png",
+      "PackagePath": "staticwebassets/images/logos/logo-16.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-17.png",
+      "PackagePath": "staticwebassets/images/logos/logo-17.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-18.png",
+      "PackagePath": "staticwebassets/images/logos/logo-18.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-19.png",
+      "PackagePath": "staticwebassets/images/logos/logo-19.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-2.png",
+      "PackagePath": "staticwebassets/images/logos/logo-2.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-20.png",
+      "PackagePath": "staticwebassets/images/logos/logo-20.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-3.png",
+      "PackagePath": "staticwebassets/images/logos/logo-3.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-4.png",
+      "PackagePath": "staticwebassets/images/logos/logo-4.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-5.png",
+      "PackagePath": "staticwebassets/images/logos/logo-5.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-6.png",
+      "PackagePath": "staticwebassets/images/logos/logo-6.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-7.png",
+      "PackagePath": "staticwebassets/images/logos/logo-7.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-8.png",
+      "PackagePath": "staticwebassets/images/logos/logo-8.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/logo-9.png",
+      "PackagePath": "staticwebassets/images/logos/logo-9.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/logos/page_logo.png",
+      "PackagePath": "staticwebassets/images/logos/page_logo.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/anywhare.svg",
+      "PackagePath": "staticwebassets/images/new/anywhare.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/app.png",
+      "PackagePath": "staticwebassets/images/new/app.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/arrive1.svg",
+      "PackagePath": "staticwebassets/images/new/arrive1.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/arrive2.svg",
+      "PackagePath": "staticwebassets/images/new/arrive2.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/arrow-right.svg",
+      "PackagePath": "staticwebassets/images/new/arrow-right.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/company.svg",
+      "PackagePath": "staticwebassets/images/new/company.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/drivebanner.png",
+      "PackagePath": "staticwebassets/images/new/drivebanner.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/driver.svg",
+      "PackagePath": "staticwebassets/images/new/driver.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/easyway.svg",
+      "PackagePath": "staticwebassets/images/new/easyway.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/google.png",
+      "PackagePath": "staticwebassets/images/new/google.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/image2.png",
+      "PackagePath": "staticwebassets/images/new/image2.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/image3.jpg",
+      "PackagePath": "staticwebassets/images/new/image3.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/lowcost.svg",
+      "PackagePath": "staticwebassets/images/new/lowcost.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/money.svg",
+      "PackagePath": "staticwebassets/images/new/money.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/new/topbanner.png",
+      "PackagePath": "staticwebassets/images/new/topbanner.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/phones-signup.png",
+      "PackagePath": "staticwebassets/images/phones-signup.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/ride1.jpg",
+      "PackagePath": "staticwebassets/images/ride1.jpg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/select-arrow.png",
+      "PackagePath": "staticwebassets/images/select-arrow.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/selectarrow.svg",
+      "PackagePath": "staticwebassets/images/selectarrow.svg"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/slider_arrow_left_gray.png",
+      "PackagePath": "staticwebassets/images/slider_arrow_left_gray.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/slider_arrow_left_whit.png",
+      "PackagePath": "staticwebassets/images/slider_arrow_left_whit.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/slider_arrow_righ_gray.png",
+      "PackagePath": "staticwebassets/images/slider_arrow_righ_gray.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/images/slider_arrow_righ_whit.png",
+      "PackagePath": "staticwebassets/images/slider_arrow_righ_whit.png"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/index.htm",
+      "PackagePath": "staticwebassets/index.htm"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/accountkit-1.js",
+      "PackagePath": "staticwebassets/js/accountkit-1.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/accountkit-2.js",
+      "PackagePath": "staticwebassets/js/accountkit-2.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/accountkit.js",
+      "PackagePath": "staticwebassets/js/accountkit.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/angular-sanitize.js",
+      "PackagePath": "staticwebassets/js/angular-sanitize.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/angular.js",
+      "PackagePath": "staticwebassets/js/angular.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/apiclient.js",
+      "PackagePath": "staticwebassets/js/apiclient.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-1.js",
+      "PackagePath": "staticwebassets/js/common-1.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-10.js",
+      "PackagePath": "staticwebassets/js/common-10.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-11.js",
+      "PackagePath": "staticwebassets/js/common-11.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-12.js",
+      "PackagePath": "staticwebassets/js/common-12.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-13.js",
+      "PackagePath": "staticwebassets/js/common-13.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-14.js",
+      "PackagePath": "staticwebassets/js/common-14.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-15.js",
+      "PackagePath": "staticwebassets/js/common-15.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-16.js",
+      "PackagePath": "staticwebassets/js/common-16.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-17.js",
+      "PackagePath": "staticwebassets/js/common-17.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-18.js",
+      "PackagePath": "staticwebassets/js/common-18.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-19.js",
+      "PackagePath": "staticwebassets/js/common-19.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-2.js",
+      "PackagePath": "staticwebassets/js/common-2.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-20.js",
+      "PackagePath": "staticwebassets/js/common-20.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-3.js",
+      "PackagePath": "staticwebassets/js/common-3.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-4.js",
+      "PackagePath": "staticwebassets/js/common-4.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-5.js",
+      "PackagePath": "staticwebassets/js/common-5.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-6.js",
+      "PackagePath": "staticwebassets/js/common-6.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-7.js",
+      "PackagePath": "staticwebassets/js/common-7.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-8.js",
+      "PackagePath": "staticwebassets/js/common-8.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common-9.js",
+      "PackagePath": "staticwebassets/js/common-9.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/common.js",
+      "PackagePath": "staticwebassets/js/common.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/googleapilogin.js",
+      "PackagePath": "staticwebassets/js/googleapilogin.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/jquery-1.11.3.js",
+      "PackagePath": "staticwebassets/js/jquery-1.11.3.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/jquery-ui.js",
+      "PackagePath": "staticwebassets/js/jquery-ui.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets/js/jquery.bxslider.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/jquery.sliderTabs.min.js",
+      "PackagePath": "staticwebassets/js/jquery.sliderTabs.min.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-1.js",
+      "PackagePath": "staticwebassets/js/main-1.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-10.js",
+      "PackagePath": "staticwebassets/js/main-10.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-11.js",
+      "PackagePath": "staticwebassets/js/main-11.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-12.js",
+      "PackagePath": "staticwebassets/js/main-12.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-13.js",
+      "PackagePath": "staticwebassets/js/main-13.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-14.js",
+      "PackagePath": "staticwebassets/js/main-14.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-15.js",
+      "PackagePath": "staticwebassets/js/main-15.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-16.js",
+      "PackagePath": "staticwebassets/js/main-16.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-17.js",
+      "PackagePath": "staticwebassets/js/main-17.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-18.js",
+      "PackagePath": "staticwebassets/js/main-18.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-19.js",
+      "PackagePath": "staticwebassets/js/main-19.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-2.js",
+      "PackagePath": "staticwebassets/js/main-2.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-20.js",
+      "PackagePath": "staticwebassets/js/main-20.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-3.js",
+      "PackagePath": "staticwebassets/js/main-3.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-4.js",
+      "PackagePath": "staticwebassets/js/main-4.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-5.js",
+      "PackagePath": "staticwebassets/js/main-5.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-6.js",
+      "PackagePath": "staticwebassets/js/main-6.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-7.js",
+      "PackagePath": "staticwebassets/js/main-7.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-8.js",
+      "PackagePath": "staticwebassets/js/main-8.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main-9.js",
+      "PackagePath": "staticwebassets/js/main-9.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-1.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-1.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-10.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-10.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-11.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-11.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-12.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-12.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-13.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-13.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-14.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-14.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-15.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-15.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-16.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-16.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-17.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-17.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-18.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-18.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-19.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-19.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-2.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-2.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-20.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-20.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-3.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-3.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-4.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-4.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-5.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-5.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-6.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-6.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-7.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-7.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-8.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-8.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides-9.js",
+      "PackagePath": "staticwebassets/js/responsiveslides-9.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/responsiveslides.js",
+      "PackagePath": "staticwebassets/js/responsiveslides.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-1.js",
+      "PackagePath": "staticwebassets/js/user-1.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-10.js",
+      "PackagePath": "staticwebassets/js/user-10.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-11.js",
+      "PackagePath": "staticwebassets/js/user-11.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-12.js",
+      "PackagePath": "staticwebassets/js/user-12.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-13.js",
+      "PackagePath": "staticwebassets/js/user-13.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-14.js",
+      "PackagePath": "staticwebassets/js/user-14.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-15.js",
+      "PackagePath": "staticwebassets/js/user-15.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-16.js",
+      "PackagePath": "staticwebassets/js/user-16.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-17.js",
+      "PackagePath": "staticwebassets/js/user-17.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-18.js",
+      "PackagePath": "staticwebassets/js/user-18.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-19.js",
+      "PackagePath": "staticwebassets/js/user-19.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-2.js",
+      "PackagePath": "staticwebassets/js/user-2.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-20.js",
+      "PackagePath": "staticwebassets/js/user-20.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-3.js",
+      "PackagePath": "staticwebassets/js/user-3.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-4.js",
+      "PackagePath": "staticwebassets/js/user-4.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-5.js",
+      "PackagePath": "staticwebassets/js/user-5.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-6.js",
+      "PackagePath": "staticwebassets/js/user-6.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-7.js",
+      "PackagePath": "staticwebassets/js/user-7.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-8.js",
+      "PackagePath": "staticwebassets/js/user-8.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user-9.js",
+      "PackagePath": "staticwebassets/js/user-9.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/js/user.js",
+      "PackagePath": "staticwebassets/js/user.js"
+    },
+    {
+      "Id": "/Users/apple/Desktop/SmartYbus-1/wwwroot/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png",
+      "PackagePath": "staticwebassets/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SmartYbus-1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SmartYbus-1.props",
+      "PackagePath": "build\\SmartYbus-1.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SmartYbus-1.props",
+      "PackagePath": "buildMultiTargeting\\SmartYbus-1.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SmartYbus-1.props",
+      "PackagePath": "buildTransitive\\SmartYbus-1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

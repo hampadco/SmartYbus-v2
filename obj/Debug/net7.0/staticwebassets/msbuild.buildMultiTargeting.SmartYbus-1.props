@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SmartYbus-1.props" />
+</Project>

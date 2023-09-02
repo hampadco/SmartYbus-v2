@@ -1,0 +1,74 @@
+<section class="content-signupdrive "  style="margin-top: 100px;">
+
+  <div class="signup-wrapper cls_signuprider">
+    <div class="stage" style="margin-top: 10px;">
+      <section class="signup-top">
+        <div class="signup-top-text">
+          <h2 class="text-center m-b-12">Register School</h2>
+          <p style="font-size: 150%; margin-bottom: 40px;" align="center">Create a school account.</p>
+        </div>
+      </section>
+      <div class="form-wrapper text_frm">
+        <form method="POST" action="https://easyride.app/rider_register" accept-charset="UTF-8" id="form" class="ng-pristine ng-valid"><input name="_token" type="hidden" value="HquRRJRfs0cIEmWWofKCQYF3dr9eKaDBTqr71H3i">
+        <input id="fb_id" name="fb_id" type="hidden">
+        <input type="hidden" name="_token" value="HquRRJRfs0cIEmWWofKCQYF3dr9eKaDBTqr71H3i">
+        <input id="request_type" name="request_type" type="hidden" value="">
+        <input id="otp" name="otp" type="hidden" value="">
+        <input type="hidden" name="user_type" value="Rider">
+        <div class="layout layout--flush col-md-12 container-field clearfix push-small--bottom">
+          <div class="filed-half res-full col-md-12 input-group">
+            <div class="field">
+              <label class="field__label" for="fname">Username</label>
+              <input class=" form-control one-column-form__input--text" placeholder="Username" id="fname" name="first_name" type="text">
+            </div>
+            <span class="text-danger first_name_error"></span>
+          </div>
+        </div>
+          <div class="layout layout--flush col-md-12 container-field clearfix push-small--bottom">
+          <div class="filed-half  res-full col-md-12 clearfix">
+            <div class="field">
+              <label class="field__label" for="lname">Password</label>
+              <input class=" form-control one-column-form__input--text" placeholder="Password" id="lname" name="last_name" type="text">
+            </div>
+            <span class="text-danger last_name_error"></span>
+          </div>
+        </div>
+      
+
+
+        <div class="input-group icon-input right ">
+          <div class="layout layout--flush col-md-12 container-field clearfix push-small--bottom">
+            <div class="field">
+              <label class="field__label" for="input-email">Email (Optional)</label>
+              
+              <input class=" form-control one-column-form__input--text" placeholder="Email (Optional)" id="input-email" style="margin:0px !important" name="email" type="text" value="">
+              <i class="fa fa-envelope inside-ion" aria-hidden="true" style="font-size: 11px;"></i>
+            </div>
+            <span class="text-danger email_error"></span>
+          </div>
+        </div>
+
+        <!-- <div class="input-group icon-input right ">
+          <div class="layout layout--flush col-md-12 container-field clearfix push-small--bottom">
+            <div class="field">
+              <label class="field__label" for="password">Password</label>            
+              <input class=" form-control one-column-form__input--text" placeholder="Password" id="password" style="margin:0px !important" name="password" type="password" value="">
+              <i class="fa fa-lock inside-ion" aria-hidden="true" style="font-size: 13px;"></i>
+            </div>
+            <span class="text-danger password_error"></span>
+          </div>
+        </div> -->
+      
+      
+    
+        
+        <button id="submit-btn" ng-click="showPopup('send_otp');" type="button" class="btn btn--full btn--primary btn--large btn--arrow signup-btn">
+          <span class="float--left push-small--right">Register School</span>
+          <i class="fa fa-long-arrow-right icon icon_right-arrow-thin"></i>
+        </button>
+        </form>
+     
+
+       </div>
+     </div>
+   </div></section>
